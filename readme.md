@@ -9,9 +9,9 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 610112418033
 
 ### Link LAB
-[LAB1](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB1)
-[LAB2](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB2)
-[LAB3](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB3)
+[LAB1](https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB1)
+[LAB2](https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB2)
+[LAB3https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB3
 
 ### RUN
 **LAB1**

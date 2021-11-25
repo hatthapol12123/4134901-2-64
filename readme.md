@@ -11,7 +11,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 ### Link LAB
 [LAB1](https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB1)
 [LAB2](https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB2)
-[LAB3https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB3
+[LAB3](https://github.com/hatthapol12123/4134901-2-64/tree/main/LAB3)
 
 ### RUN
 **LAB1**
